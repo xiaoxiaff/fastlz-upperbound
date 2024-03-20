@@ -1,5 +1,5 @@
 ## Fastlz upper-bound analysis
-Analysis fastlz upper-bound. Change `analysisMode` in to code to switch between fetching mode and analysis mode.
+Analysis fastlz upper-bound. Change `analysisMode` in the code to switch between fetching mode and analysis mode.
 
 ## Execution result
 total tx processed:1400461
