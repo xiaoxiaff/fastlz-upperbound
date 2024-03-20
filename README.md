@@ -2,7 +2,7 @@
 Analysis fastlz upper-bound. Change `analysisMode` in the code to switch between fetching mode and analysis mode.
 
 ## Execution result
-total tx processed:1400461
+Total tx processed:1400461
 
 Not compressable txs: 587832
 
